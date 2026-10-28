@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "PumeistyClub.aternos.me",
-    "port": 35514,
+    "ip": "arksmp.joinmc.world",
+    "port": 25457,
     "version": "1.21.1"
   },
   "position": {
